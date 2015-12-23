@@ -2,11 +2,21 @@
     {
         "id": 1388534400000,
         "author": "Pete Hunt",
-        "text": "Hey there!"
+        "text": "Hey there! - Learning is fun"
     },
     {
         "id": 1420070400000,
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1450908814658,
+        "author": "Neil Gehani",
+        "text": "Fun with React!"
+    },
+    {
+        "id": 1450909086891,
+        "author": "Tonie Cox",
+        "text": "Is happy to see Krista soon"
     }
 ]
